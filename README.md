@@ -1,5 +1,8 @@
 ### Hi! 👋
-我是博丞，謝謝來觀看我的GitHub。
+我是博丞，歡迎來到我的GitHub。
+## Contact me
+📫：110354023@g.nccu.edu.tw
+
 <!--
 **hsiehbocheng/hsiehbocheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
