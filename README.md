@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi! 👋
+我是博丞，謝謝來觀看我的GitHub。
 <!--
 **hsiehbocheng/hsiehbocheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
