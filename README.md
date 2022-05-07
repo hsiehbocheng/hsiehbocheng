@@ -1,5 +1,5 @@
 ### Hi! 👋
-我是博丞，歡迎來到我的GitHub。
+我是博丞，i'm Kevin.
 ## Contact me
 📫：110354023@g.nccu.edu.tw
 
