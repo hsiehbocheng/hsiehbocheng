@@ -1,6 +1,5 @@
 ### Hi! 👋
-我是博丞，i'm Kevin.\
-Learning.nccu Organiztion 存放在政大統計碩士各課堂的 lab code 以及相關作業與練習.
+我是博丞，i'm Kevin.
 ## Contact me
 📫：110354023@g.nccu.edu.tw
 
