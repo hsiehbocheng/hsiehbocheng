@@ -4,7 +4,7 @@
 專長於統計分析、資料視覺化、機器學習與自然語言處理。<br>
 擅長使用工具為：Python、R Language、SAS、Tableau、MySQL、MongoDB。<br>
 #### Contact me
-📫：bochenghsieh@g.nccu.edu.tw
+📫：bochenghsieh@gmail.com
 <br>
 LinkedIn: [連接](https://www.linkedin.com/in/博丞-謝-4396b7235/)
 
