@@ -1,9 +1,17 @@
 ### Hi! 👋
-i'm benson, welcom to my github
-#### Contact me
-📫：bochenghsieh@gmail.com
-<br>
-LinkedIn: [連接](https://www.linkedin.com/in/博丞-謝-4396b7235/)
+Hi, I'm Benson, a rookie data scientist in my first year, primarily responsible for the application of NLP and LLM in the property insurance industry. 
+
+Below are my frameworks on both my personal blog and Medium, where I organize my notes from daily work. Feel free to take a look, as I hope they can be helpful to you. 
+
+Additionally, you can find my LinkedIn and email below. Feel free to reach out to me.
+
+Email：bochenghsieh@gmail.com
+
+Blog: [Link](https://hsiehbocheng.github.io/)
+
+Medium: [Link](https://medium.com/@bensonhsieh)
+
+LinkedIn: [Link](https://www.linkedin.com/in/博丞-謝-4396b7235/)
 
 
 <!--
