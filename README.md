@@ -1,5 +1,5 @@
 ### Hi! 👋
-Hi, I'm Benson, a rookie data scientist in my first year, primarily responsible for the application of NLP and LLM in the property insurance industry. 
+Hi, I'm Benson, a data scientist primarily responsible for the application of NLP and LLM in the property insurance industry. 
 
 checkout my personal blog and Medium, where I organize my notes from daily work. Feel free to take a look, as I hope they can be helpful to you. 
 
