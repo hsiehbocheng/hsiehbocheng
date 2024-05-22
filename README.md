@@ -1,9 +1,7 @@
 ### Hi! 👋
 Hi, I'm Benson, a rookie data scientist in my first year, primarily responsible for the application of NLP and LLM in the property insurance industry. 
 
-Below are my frameworks on both my personal blog and Medium, where I organize my notes from daily work. Feel free to take a look, as I hope they can be helpful to you. 
-
-Additionally, you can find my LinkedIn and email below. Feel free to reach out to me.
+checkout my personal blog and Medium, where I organize my notes from daily work. Feel free to take a look, as I hope they can be helpful to you. 
 
 Email：bochenghsieh@gmail.com
 
