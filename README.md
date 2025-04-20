@@ -1,22 +1,7 @@
-### Hi! 👋
-Hi, I'm Benson, a data scientist primarily responsible for the application of NLP and LLM in the property insurance industry. 
-checkout my personal blog and Medium, where I organize my notes from daily work. Feel free to take a look, as I hope they can be helpful to you. 
+Hi there! 👋
 
-Email：bochenghsieh@gmail.com</p>
-Medium: [Link](https://medium.com/@bensonhsieh)</p>
+I’m Benson — a data scientist / AI engineer with a focus on predictive modeling, NLP, and generative AI.
+I enjoy exploring real-world use cases and sharing what I learn along the way. Feel free to check out my blog and Medium — hopefully you’ll find something helpful or inspiring!
 
-
-<!--
-**hsiehbocheng/hsiehbocheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Email: bochenghsieh@gmail.com
+✍️ Medium: @bensonhsieh
