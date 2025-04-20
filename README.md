@@ -2,8 +2,8 @@
 Hi, I'm Benson, a data scientist primarily responsible for the application of NLP and LLM in the property insurance industry. 
 checkout my personal blog and Medium, where I organize my notes from daily work. Feel free to take a look, as I hope they can be helpful to you. 
 
-Email：bochenghsieh@gmail.com<\p>
-Medium: [Link](https://medium.com/@bensonhsieh)<\p>
+Email：bochenghsieh@gmail.com</p>
+Medium: [Link](https://medium.com/@bensonhsieh)</p>
 
 
 <!--
